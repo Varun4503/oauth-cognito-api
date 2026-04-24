@@ -6,4 +6,4 @@ This service acts as an OAuth 2.0 Resource Server. It validates JWT access token
 - Protects endpoints with authentication
 - Extracts user claims from token
 
-Frontend Repo: https://github.com/your-username/oauth-cognito-react-client
+Frontend Repo: https://github.com/Varun4503/oauth-cognito-react-client
