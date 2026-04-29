@@ -105,7 +105,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## 🔐 How Authentication Works
+## How Authentication Works
 
 1. User logs in via AWS Cognito
 2. Frontend sends JWT (access_token) to backend
@@ -116,7 +116,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * `application.properties` is ignored (contains sensitive data)
 * Use `application-example.properties` as reference
@@ -125,7 +125,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 * Java 21
 * Maven
